@@ -1,0 +1,5 @@
+{
+  "name": "NexusHub",
+  "description": "A centralized organizational dashboard to manage, secure, and share access to internal and external tools like Replit, AI Studio, and ERPs. Features role-based access control and AI-powered tool categorization.",
+  "requestFramePermissions": []
+}
